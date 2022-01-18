@@ -1,0 +1,6 @@
+{
+"seed":1,
+"num_epochs":200,
+"save_dir": null,
+"lr": tune.loguniform:[1e-7,1e-1]}
+}
